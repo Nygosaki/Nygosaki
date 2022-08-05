@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center"">
+ <img class="img" src="https://github-readme-stats.vercel.app//api?username=MeLikeFish&count_private=true&show_icons=true&theme=github_dark&hide_border=true" /><br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeLikeFish&layout=compact&theme=github_dark&hide_border=true" /><br>
+</div>
 
-<!--
-**MeLikeFish/MeLikeFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a amature programer, and I so far know only Python
 
-Here are some ideas to get you started:
+### My Projects
+I have completed my [human-like AimBooster Aimbot](https://github.com/MeLikeFish/Legit-AimBooster-Aimbot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
