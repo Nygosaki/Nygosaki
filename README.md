@@ -4,7 +4,7 @@
 </div>
 
 ### About Me
-I am a amature programer, and I so far know only Python
+I am a amature programer and pentester
 
 ### Contact Me
 If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
