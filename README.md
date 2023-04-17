@@ -8,3 +8,6 @@ I am a amature programer and pentester
 
 ### Contact Me
 If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
+
+# Guides & More
+Please see [my Gist page](https://gist.github.com/MeLikeFish) to look at my guides, research, and more.
