@@ -1,6 +1,6 @@
 <div align="center"">
- <img class="img" src="https://github-readme-stats.vercel.app//api?username=MeLikeFish&count_private=true&show_icons=true&theme=github_dark&hide_border=true" /><br>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeLikeFish&layout=compact&theme=github_dark&hide_border=true" /><br>
+ <img class="img" src="https://github-readme-stats.vercel.app//api?username=MeLikeFish&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" /><br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeLikeFish&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" /><br>
 </div>
 
 ### About Me
