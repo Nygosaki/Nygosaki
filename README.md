@@ -4,11 +4,19 @@
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMeLikeFish&count_bg=%23534B58&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Viewes&edge_flat=false"/></a>
 </div>
 
-### About Me
-I am a amature programer and pentester
+## About Me
+Learning proggraming in general, pentesting, & general IT   
+Experienced in Python   
+Begginer in LUA-U   
+Want to learn C++   
 
-### Contact Me
+### Fun Facts About Me   
+I hate emojies   
+I live in Los Angeles, San Diego, Tijuana, and Prague at the same time
+
+## Contact Me
 If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
 
+
 # Guides & More
-Please see [my Gist page](https://gist.github.com/MeLikeFish) to look at my guides, research, and more.
+Please see [my Github Gist page](https://gist.github.com/MeLikeFish) to look at my guides, research, and more
