@@ -12,7 +12,6 @@ Want to learn C++
 
 ### Fun Facts About Me   
 I hate emojies   
-I live in Los Angeles, San Diego, Tijuana, and Prague at the same time
 
 ## Contact Me
 If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
