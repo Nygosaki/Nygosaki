@@ -4,17 +4,22 @@
 </div>
 
 ## About Me
-Learning proggraming in general, pentesting, & general IT   
+Learning programming in general, pentesting, & general IT   
 Experienced in Python   
-Begginer in LUA-U   
+Beginner in LUA-U   
 Want to learn C++   
 
 ### Fun Facts About Me   
-I hate emojies   
+None, just not a very fun person :( 
 
 ## Contact Me
-If you have a issue/question with one of my projects, make a issue, write down your discord tag and I will contact you
+If you have an issue/question with one of my projects, make an issue, write down your discord tag and I will contact you
 
 
 # Guides & More
 Please see [my Github Gist page](https://gist.github.com/Nygosaki) to look at my guides, research, and more
+
+# Private Repos
+A list of closed-source projects I am currently working on
+- Full verification completely automatic Reddit account creation
+- Sea of Thieves ESP & More
