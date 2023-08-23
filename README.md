@@ -23,3 +23,4 @@ Please see [my Github Gist page](https://gist.github.com/Nygosaki) to look at my
 A list of closed-source projects I am currently working on
 - Full verification completely automatic Reddit account creation
 - Sea of Thieves ESP & More
+- Minecraft backdoor plugin
