@@ -10,7 +10,9 @@ Beginner in LUA-U
 Want to learn C++   
 
 ### Fun Facts About Me   
-None, just not a very fun person :( 
+<img width="250" alt="Screenshot 2023-09-21 at 8 08 18" src="https://github.com/Nygosaki/Nygosaki/assets/63132234/dbefdc34-c08d-4517-89d6-b3a77dd2a865">      
+
+A significant portion of my repos and gists have been privated or deleted to make sure I don't get terminated again :>     
 
 ## Contact Me
 If you have an issue/question with one of my projects, make an issue, write down your discord tag and I will contact you
