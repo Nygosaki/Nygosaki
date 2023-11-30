@@ -27,3 +27,5 @@ A list of closed-source projects I am currently working on
 - Full verification completely automatic Reddit account creation
 - Sea of Thieves ESP & More
 - Minecraft backdoor plugin
+- Snapchat bot
+- Hack The Box premium walk throughs
