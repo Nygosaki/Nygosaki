@@ -12,6 +12,8 @@ Want to learn C++
 ### Fun Facts About Me   
 <img width="250" alt="Screenshot of Github Support reinstating my account for the first time" src="https://github.com/Nygosaki/Nygosaki/assets/63132234/7477899e-a7ec-40db-b4db-3cfd177610d6">
 <img width="375" alt="Screenshot of Github Support reinstating my account for the second time" src="https://github.com/Nygosaki/Nygosaki/assets/63132234/e5685335-1a95-42b3-884c-a69aba982f71">      
+<img width="624" height="251" alt="image" src="https://github.com/user-attachments/assets/7aa1478b-84ff-4a98-81be-237aff94ae0a" />
+
          
 A significant portion of my repos and gists have been privated or deleted to make sure I don't get terminated a third time :>     
 
