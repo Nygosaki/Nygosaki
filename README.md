@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    I am an <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
+    My name is Nygosaki (pronounced ɲjagosakɪ — Nya-g-o-saki), and I am a <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
     My coding philosophy revolves around deep tinkering—whether that's building large-scale fullstack web apps,<br>
     developing scraping tools, managing bot networks, or researching game exploits.
   </p>
@@ -12,7 +12,6 @@
   <a href="https://discord.gg/sFzqJk9R7E">
     <img src="https://img.shields.io/badge/Discord-Spam_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-
   <p style="
     display: flex;
     flex-wrap: nowrap;
@@ -27,6 +26,9 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </p>
+  
+  https://github.com/user-attachments/assets/b74649f5-9e4a-4ee3-be37-c96ab3a8550a
+
 
   <br>
 
