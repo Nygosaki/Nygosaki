@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    My name is Nygosaki (pronounced ɲjagosakɪ <audio controls src="/name.mp3"> — Nya-g-o-saki), and I am a <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
+    My name is Nygosaki (pronounced <a href="https://nygosaki.dev/name.mp3" id="name-btn" title="Play pronunciation" style="text-decoration: none; cursor: pointer;">ɲjagosakɪ 🔊</a> — Nya-g-o-saki), and I am a <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
     My coding philosophy revolves around deep tinkering—whether that's building large-scale fullstack web apps,<br>
     developing scraping tools, managing bot networks, or researching game exploits.
   </p>
@@ -26,8 +26,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </p>
-  
-  https://github.com/user-attachments/assets/b74649f5-9e4a-4ee3-be37-c96ab3a8550a
 
   <br>
 
@@ -76,3 +74,20 @@
   </p>
 
 </div>
+
+<audio id="name-audio" src="https://nygosaki.dev/name.mp3" preload="auto"></audio>
+
+<script>
+  document.getElementById('name-btn').addEventListener('click', function(event) {
+    const targetUrl = this.href;
+    const hostname = window.location.hostname;
+    
+    event.preventDefault(); 
+    const audio = document.getElementById('name-audio');
+    
+    audio.play().catch(error => {
+      console.warn("Audio playback failed. Falling back to redirect.", error);
+      window.location.href = targetUrl;
+    });
+  });
+</script>
