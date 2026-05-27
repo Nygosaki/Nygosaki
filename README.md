@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    My name is Nygosaki (pronounced <a href="https://nygosaki.dev/name.mp3" id="name-btn" title="Play pronunciation" style="text-decoration: none; cursor: pointer;">ɲjagosakɪ 🔊</a> — Nya-g-o-saki), and I am a <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
+    My name is Nygosaki (pronounced <a href="https://nygosaki.dev/name.mp3" title="Play pronunciation">ɲjagosakɪ 🔊</a> — Nya-g-o-saki), and I am a <b>IB Student</b> with a deep focus on <b>Computer Science, Economics, and Business</b>.<br>
     My coding philosophy revolves around deep tinkering—whether that's building large-scale fullstack web apps,<br>
     developing scraping tools, managing bot networks, or researching game exploits.
   </p>
@@ -76,18 +76,3 @@
 </div>
 
 <audio id="name-audio" src="https://nygosaki.dev/name.mp3" preload="auto"></audio>
-
-<script>
-  document.getElementById('name-btn').addEventListener('click', function(event) {
-    const targetUrl = this.href;
-    const hostname = window.location.hostname;
-    
-    event.preventDefault(); 
-    const audio = document.getElementById('name-audio');
-    
-    audio.play().catch(error => {
-      console.warn("Audio playback failed. Falling back to redirect.", error);
-      window.location.href = targetUrl;
-    });
-  });
-</script>
